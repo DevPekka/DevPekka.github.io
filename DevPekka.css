@@ -1,0 +1,15 @@
+html {
+    background: white;
+}
+
+p {
+    color: white;
+    font-family: 'Gotham', sans-serif;
+}
+
+.titlers {
+    font-family: 'Now', sans-serif;
+    font-size: 50px;
+    color: #242424;
+}
+
